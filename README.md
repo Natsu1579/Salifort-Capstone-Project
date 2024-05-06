@@ -22,7 +22,7 @@ The data has been provided by the Google Advanced Data Analytics Professional Ce
 
 **Conclusion** 
 
-In order to solve the business problem, a Decision Tree and Random Forest model were made and compared to esch other to see which model performed better. After conducting feature engineering, the decision tree model achieved AUC of 96.9%, precision of 91.4%, recall of 91.6%, f1-score of 91.5%, and accuracy of 97.1%, on the test set. Despite that, the random forest modestly outperformed the decision tree model. 
+In order to solve the business problem, a Decision Tree and Random Forest model were made and compared to each other to see which model performed better. After conducting feature engineering, the decision tree model achieved AUC of 96.9%, precision of 91.4%, recall of 91.6%, f1-score of 91.5%, and accuracy of 97.1%, on the test set. Despite that, the random forest modestly outperformed the decision tree model. 
 
 <img width="477" alt="Screen Shot 2024-04-05 at 2 46 49 PM" src="https://github.com/Natsu1579/Salifort-Capstone-Project/assets/150382759/5e8627e9-7e54-4afd-a86d-d24b4fb0e865">
 
